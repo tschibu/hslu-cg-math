@@ -5,11 +5,11 @@ Modul: CG (Computer Graphics) - math exercises
 
 ## Inhalt
 
-- `gc_math_uebung1.ipynb`: Computer Graphik: Projektive Geometrie I
+- `cg_math_uebung1.ipynb`: Computer Graphik: Projektive Geometrie I
     - Übung SW03
     
-- `gc_math_uebung2.ipynb`: Computer Graphik: Projektive Geometrie II
+- `cg_math_uebung2.ipynb`: Computer Graphik: Projektive Geometrie II
     - Übung SW03
 
-- `gc_math_uebung3.ipynb`: Computer Graphik: Projektive Geometrie III
+- `cg_math_uebung3.ipynb`: Computer Graphik: Projektive Geometrie III
     - Übung SW03
